@@ -1,0 +1,8 @@
+﻿name_of_project,summary,skills_used,duration,year
+DevOps monitoring automation and Prediction System,"Implemented Highly available,scalable, Automated Recovery and Prediction system with use of open source monitoring tools such as zabbix, logging with ELK stack, Infrastructure provisioning using Vagrant and configuration using Ansible scripts.","Terraform, Ansible, AWS, Vagrant, Prometheus, Grafana",2 days,Jul-05
+performance monitoring dashboard,"It's completely open source project development task which includes Development of Monitoring dashboard for Server Utilization, Application server Monitoring, Database Monitoring, etc.
+It gives real time values for all production servers, DET servers, QA servers, Dev Servers etc which gives graphical representation with varios charts and export facility of reports generation as convince.
+As a cloud Developer my responsibilities include collection of metrics information such as memory, CPU usage, Java threads, heap memory usages, and dump that data to Database for analysis for real time monitoring.
+developed an utility to perform prediction and auto recover from failures","Python, AWS boto, Scriptiting, automation",6 months,2018
+BikeBoost: Post-Pandemic Demand Prediction,Linear regression Project,"Python, Linear regression, Machine learning",6 months,2021
+Credit card fraud detection,Data enginnering Capstone project,"Python, Pyspark, Redshift, AWS ETL, AWS S3, Jupyter notebook, Spark streaming, Kafka, AWS S3",3 months,2023

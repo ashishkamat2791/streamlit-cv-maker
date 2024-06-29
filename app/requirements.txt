@@ -1,0 +1,10 @@
+streamlit==1.14.0
+pandas 
+fastapi 
+uvicorn
+pydantic
+requests
+fitz
+streamlit-elements
+streamlit-carousel
+altair<5

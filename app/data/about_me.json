@@ -1,0 +1,15 @@
+{
+ "name": "Ashish Avinash Kamat",
+ "Current Designation": "Senior Platform/SRE/MLOPS Engineer",
+ "contact details": {
+    "Mobile no": "+919004916161",
+    "Email" : "ashishkamat91@gmail.com",
+    "LinkedIn": "https://www.linkedin.com/in/ashish-kamat-80b1674a/",
+    "Github": "https://github.com/ashishkamat2791"
+ },
+
+"Skills": [
+    "GitOps/ArgoCD", "DevOps/CI-CD", "Deployment", "AWS cloud", "Project automation integration", "Site reliability", "MLOPS"
+],
+"Summary": "Innovative Lead DevOps engineer with over 9 years of experience in DevOps cloud automation and data analysis, known for driving backend development to ensure optimal performance of production servers. Skilled in managing the entire software configuration management process, including code compilation, packaging deployment in cloud infrastructure, and DevOps automation. Proficient in GitOps/ArgoCD, DevOps/CI-CD, and deploying on AWS cloud. Experienced in Project Automation Integration, Site Reliability, EDA, and MLOPS"
+}
